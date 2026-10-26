@@ -64,7 +64,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.pharmacy.tracker.PharmacyTrackerApplication</mainClass>
+                    <mainClass>com.pharmacy.tracker.tracker.PharmacyTrackerApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
